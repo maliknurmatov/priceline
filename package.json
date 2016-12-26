@@ -1,6 +1,6 @@
 {
   "name": "priceline",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Priceline service",
   "main": "index.js",
   "scripts": {
